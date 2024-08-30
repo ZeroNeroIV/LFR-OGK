@@ -11,4 +11,4 @@ Used **_Bluetooth_** to capture the most suitable PID values.
 
 > Yazeed Migdadi
 
-> Laith Ethar
+> Laith Ellabadi
